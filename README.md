@@ -1,3 +1,3 @@
-![counter](https://count.getloli.com/@goodat?name=goodat&theme=rule34&padding=8&offset=0&align=bottom&scale=2&pixelated=1&darkmode=auto)
+![counter](https://count.getloli.com/@goodat?name=goodatthis&theme=rule34&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=auto)
 
 I don't know how to code...
