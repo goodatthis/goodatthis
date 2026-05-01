@@ -1,3 +1,3 @@
-![counter](https://count.getloli.com/@goodat?name=goodatthis&theme=rule34&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=auto)
+<img src="https://count.getloli.com/@test?theme=moebooru&length=6&label=visitors&color=auto" />
 
 I don't know how to code...
