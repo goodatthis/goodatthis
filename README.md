@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  I will use this profile for something
-  at some point
-  maybe
-  for now though its just so i can star things
-  and find them
-  ...
-  also for my username
+  I will use this profile for something<br>
+  at some point<br>
+  maybe<br>
+  for now though its just so i can star things<br>
+  and find them<br>
+  ...<br>
+  also for my username<br>
   i mean github.com/goodatthis was a great pull
 </p>
