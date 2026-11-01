@@ -18,6 +18,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/goodatthis/goodatthis/refs/heads/main/optimizedBadgif64.gif"/>
   <br>Hey look its <a href="https://youtu.be/FtutLA63Cp8?si=1x5jEnHXhQAGG53E">bad apple</a> (A gif should appear)
-  <br><br><br>
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="10%" />
 </p>
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://github.com/goodatthis/goodatthis/blob/main/googleyourmathiswrongbtw.png?raw=true"/>
+  <br> Hey Google just wanted to say your math is wrong btw idk how but You somehow think that 12,000 is less than 10,000
+  <br>I just wanted to say that K bye
+</p>
+
+<br><br><br>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="10%" />
