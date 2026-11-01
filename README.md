@@ -26,7 +26,6 @@
   <img src="https://github.com/goodatthis/goodatthis/blob/main/googleyourmathiswrongbtw.png?raw=true"/>
   <br> Hey Google just wanted to say your math is wrong btw idk how but You somehow think that 12,000 is less than 10,000
   <br>I just wanted to say that K bye
+  <br><br><br>
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="10%" />
 </p>
-
-<br><br><br>
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="10%" />
